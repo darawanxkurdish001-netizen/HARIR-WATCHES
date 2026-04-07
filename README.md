@@ -1,4 +1,4 @@
- HARIR-WATCHES
+HARIR WATCHES
 <html lang="ku">
 <head>
 <meta charset="UTF-8">
@@ -21,6 +21,11 @@ header {
     color:white;
     text-align:center;
     padding:20px;
+}
+
+.logo {
+    width: 90px;
+    margin-bottom: 10px;
 }
 
 /* SEARCH */
@@ -128,6 +133,7 @@ header {
 <body>
 
 <header>
+    <img src="Logo.ping333"="HARIR WATCHS Logo">
     <h1>⌚ HARIR WATCHS</h1>
     <p>فروشتنی ئیکسسواراتی کوران و کچان</p>
     <p>فروشتن و چاککردنەوەی هەموو کاتژمێری</p>
