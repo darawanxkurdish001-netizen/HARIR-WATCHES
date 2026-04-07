@@ -1,4 +1,4 @@
-HARIR WATCHES
+
 <html lang="ku">
 <head>
 <meta charset="UTF-8">
@@ -133,7 +133,7 @@ header {
 <body>
 
 <header>
-    <img src="Logo.ping333.png" class="logo" alt="HARIR WATCHS Logo">
+    <img src="Logo.ping333.png" class="logo" alt="Logo.ping333.png">
     <h1>⌚ HARIR WATCHS</h1>
     <p>فروشتنی ئیکسسواراتی کوران و کچان</p>
     <p>فروشتن و چاککردنەوەی هەموو کاتژمێری</p>
