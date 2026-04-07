@@ -23,9 +23,17 @@ header {
     padding:20px;
 }
 
+/* LOGO ANIMATION + HOVER */
 .logo {
     width: 90px;
     margin-bottom: 10px;
+    transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.logo:hover {
+    transform: scale(1.2) rotate(10deg);
+    filter: drop-shadow(0 0 10px #00ffcc);
+    cursor: pointer;
 }
 
 /* SEARCH */
@@ -133,7 +141,7 @@ header {
 <body>
 
 <header>
-    <img src="Logo.ping333.png" class="logo" alt="Logo.ping333.png">
+    <img src="Logo.ping333.png" class="logo" alt="HARIR WATCHS Logo">
     <h1>⌚ HARIR WATCHS</h1>
     <p>فروشتنی ئیکسسواراتی کوران و کچان</p>
     <p>فروشتن و چاککردنەوەی هەموو کاتژمێری</p>
